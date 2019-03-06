@@ -1,7 +1,7 @@
 
 module Main where
 
-import           App
+import App2
 
 main :: IO ()
-main = run
+main = run 8080
